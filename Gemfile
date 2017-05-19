@@ -29,7 +29,8 @@ gem 'jbuilder', '2.5.0'
 # gem 'capistrano-rails', group: :development
 
 # Use Twitter Bootstrap library for front-end UI and layout
-
+# Use Font Awesome sass gem for adding icons
+gem 'font-awesome-sass', '4.6.2'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
